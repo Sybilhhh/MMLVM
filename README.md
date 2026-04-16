@@ -39,7 +39,3 @@ Assign different priors for parameters. Run simulation.R with the current settin
 Assign different distributions for 'eps' (line 137) in file 'generate_data.r' to incorporate measurement errors in imaging data
 Then run simulation.R
 
-## 2.4 Trace plot
-File: simulation/trace_plot/...
-3 original MCMC train for order 'Q' and 'M' in Figure 2. Used to test convergence.
-
