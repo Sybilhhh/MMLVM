@@ -3,7 +3,9 @@ Code for Biometrics paper 'Mixed membership latent variable model with unknown f
 
 # Authors
 Yuyang HE, The Chinese University of Hong Kong 
+
 Kai KANG, Sun Yat-sen University
+
 Xinyuan SONG, The Chinese University of Hong Kong
 
 The code is written in R and C++ linked via Rcpp, RcppArmadillo and RcppEigen
